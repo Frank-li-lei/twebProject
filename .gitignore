@@ -1,0 +1,5 @@
+# 前端
+/node_modules
+
+# 其他
+/.vscode
